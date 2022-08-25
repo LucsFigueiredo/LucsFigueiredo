@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LucsFigueiredo
 - 👀 I’m interested in expanding knowledge in the area of programming
-- 🌱 I’m currently learning HTML, CSS and Javascript from a Frontend Fullstack roadmap
- - In parallel, studing first semester of Computer Science graduation
+- 🌱 I’m currently learning Algorithms and Data Structures
+ - In parallel, studing second semester of Computer Science graduation
