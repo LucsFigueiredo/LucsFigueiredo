@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucsFigueiredo
-- 👀 I’m interested in expanding knowledge in the area of programming
-- 🌱 I’m currently learning Algorithms and Data Structures
- - In parallel, studing second semester of Computer Science graduation
+- 👋 Olá, sou @LucsFigueiredo
+- 👀 Procuro expandir meu conhecimento na área de programação
+- 📚 Atualmente estou no segundo semestre da graduação em Ciência da Computação
+- 🌱 E em paralelo, estou participando de cursos e imersões para explorar conteúdos
