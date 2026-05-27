@@ -1,4 +1,3 @@
-- 👋 Olá, sou @LucasFS
-- 👀 Procuro expandir meu conhecimento na área de programação
-- 📚 Atualmente estou no oitavo semestre da graduação em Ciência da Computação
-- 🌱 E em paralelo, estou participando de cursos e imersões para explorar conteúdos
+- 👋 Hi, I'm @LucasFS
+- 🧑‍💻 Enrolled on Curso.dev
+- 🏔️ Expading knowledge
